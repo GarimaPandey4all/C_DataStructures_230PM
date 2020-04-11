@@ -1,0 +1,129 @@
+Syllabus of Data Structures
+
+Introduction Of Data Structures
+
+Flow Charts
+Flow Charts
+Flow Chats Symbol
+Working With Flow Charts
+
+Arrays
+Array Introduction
+Types Of Array
+Working With One-Dimensional Array
+Working With Two-Dimensional Array
+Jagged Array //int [][5]= {};
+
+Searching
+Binary Search
+Linear Search
+
+Sorting
+Bubble Sort
+Insertion Sort
+Selection Sort
+Merge Sort
+Quick Sort
+Heap Sort
+
+Recursion
+What Is Recursion?
+Understanding Recursion Workflow
+Solving Complex Problems With Recursion
+
+Complexity Analysis
+Time Complexity
+Space Complexity
+Time Complexity Of Different Sorting
+Space Complexity Of Different Sorting
+
+Linked List
+Understanding Linked List
+Insertion
+Deletion
+Searching
+Double Linked List
+Insertion
+Deletion
+Searching
+Circular Linked List
+Insertion
+Deletion
+Searching
+
+Stacks
+Introduction To Stack
+Stack With Array
+Stack With Linked List
+
+Queue
+Introduction To Queue
+Dynamic Queue
+Queue Using Array
+Queue Using Linked List
+Priority Queue
+Priority Queue Implementation
+Inbuilt Priority Queue
+
+Heap
+Introduction To Heap
+Insertion And Deletion With Heap
+
+Trees
+Understanding Trees
+Working With Tree Nodes
+Tree Traversal
+
+Binary Tree
+Understanding Binary Trees
+Binary Tree Traversal
+Preorder Binary Tree
+Postorder Binary Tree
+
+Binary Search Tree (BST)
+Understanding Binary Search Trees
+BST With Sorted Array
+BST With Linked List
+BST – Insertion, Deletion
+Balanced BST
+Types Of Balanced BST
+
+HashMaps
+HashMap Introduction
+Built-In Hashmap
+Hash Function
+Bucket Array
+Rehashing
+
+Tries
+Introduction To Tries
+Tries Implementation
+HashMap Vs Tries
+Types Of Tries
+Huffman Coding
+
+Graph
+Introduction To Graphs
+Graph Terminology
+Graph Implementation
+Understanding DFS
+BST Traversal
+Weighted And Directed Graphs
+Kruskal’s Introduction
+Kruskal’s Algorithm
+Prim’s Algorithm
+Dijkstra’s Algorithm
+
+
+
+Data Structures:
+
+linear
+-Array
+-Linked List
+-Stack
+-Queue
+
+non-linear:
+-Tree
+-Graph
