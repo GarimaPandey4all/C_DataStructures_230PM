@@ -1,0 +1,19 @@
+Doubly Linked List:
+
+Operations:
+
+Insertion
+-Start
+-Last
+-After Particular Node
+
+Deletion:
+-Start
+-Last
+-Intermediate Node
+
+Traverse
+-ViewList()
+-getFirst()
+-getLast()
+-Search
