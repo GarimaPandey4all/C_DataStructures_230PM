@@ -1,0 +1,11 @@
+priority queue:
+
+A priority is a special queue.
+The element with the highest priority is removed first from the queue.
+
+If elements with the same priority occur, they are served according to their order int the queue. (FIFO).
+
+Priority queue can be implemented using an array, linked list, heap data structure.
+
+Inbuilt Priority queue: STL in C++.
+
