@@ -1,0 +1,28 @@
+Hashing:
+
+Searching: Time Complexity
+
+When keys are large, and can't be directly used as index to store value, we can use technique of hashing.
+
+Hash Table: Mostly it is an array to store values. It is the data structure.
+
+Hash function: is any function that can be used to map values to the particular keys.
+
+-easy to compute
+-minimize collisions
+
+Hash collision resolution:
+
+-Two tyoes of collision resolution
+
+1. Open hashing (chaining)
+2. Closed Hashing (Open Addressing)
+
+-Whether collisions are stored outside the table (Open hashing).
+-Whether collisions result in storing one of the records at another slot in the (closed hashing).
+
+Closed Hashing:
+
+1. Linear Probing = i= i+1= i+1...
+2. Quadratic probing = i+9, i+16...
+3. Double hashing = i+6, i+8..
