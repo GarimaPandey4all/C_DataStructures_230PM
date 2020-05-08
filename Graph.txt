@@ -1,0 +1,23 @@
+Graph:Non - linear data structure.
+
+Graph is a common data structure that consists of a finite number of sets of nodes or vertices and set of edges connecting them.
+
+A pair(x, y) is referred to as an edge, which commuicates that the x vertex connects to the y vertex.
+
+Graphs real life examples: Networks, like social networks, telephone networks, circiut networks.
+
+Types of Graphs:
+
+1. Undirected:
+
+In an undirected graph, nodes/vertices are connected by edges, that are all bidirectional. 
+
+2. Diredted:
+
+In a directed graph, nodes/vertices are connected by directed edges they only go in one direction.
+
+
+Types of Graph Representations:
+
+1. Adjacency list
+2. Adjacency Matrix
