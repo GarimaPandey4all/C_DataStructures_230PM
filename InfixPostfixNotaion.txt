@@ -1,0 +1,12 @@
+Infix , Prefix , and Postfix: Expressions
+
+A + B-->Expression
+
+combination operands and operator
+
+A + B / C---> Infix Notation
+
+Prefix-->Polish Notation
+
+Postfix-->Reverse Polish Notation
+
